@@ -1,0 +1,12 @@
+/*
+  Add everything mobile-specific here
+*/
+@import "./brand.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
